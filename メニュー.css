@@ -1,0 +1,111 @@
+@charset "utf-8";
+body{
+	background-color: #AE0609;
+}
+
+body h1 {
+    text-align: center;
+    color: #FFFFFF;
+}
+
+
+
+
+
+#bigbox_4 #four {
+	background-color: #770001;
+    font-size: 30px;
+	height: 500px;
+    float: left;
+}
+#bigbox_4 #four p {
+	color: #FFFFFF;
+	font-style: normal;
+    font-family: "HG丸ｺﾞｼｯｸM-PRO";
+    font-weight: bold;
+    text-align: center;
+}
+
+#bigbox_4 #four img {
+    width: 400px;
+    height: 400px;
+	text-align: center;
+}
+#bigbox_4 {
+
+}
+
+#bigbox_4 #five {
+    background-color: #770001;
+    height: 500px;
+    float: right;
+}
+#bigbox_4 #five p {
+	color: #FFFFFF;
+    font-size: 30px;
+    font-style: normal;
+    font-family: "HG丸ｺﾞｼｯｸM-PRO";
+    font-weight: bold;
+    text-align: center;
+}
+#bigbox_4 #five img {
+    width: 400px;
+    height: 400px;
+	text-align: center;
+}
+#bigbox_4 #six {
+    background-color: #770001;
+    height: 500px;
+    float: left;
+    clear: left;
+}
+#bigbox_4 #six p {
+	color: #FFFFFF;
+    font-size: 30px;
+    font-style: normal;
+    font-family: "HG丸ｺﾞｼｯｸM-PRO";
+    font-weight: bold;
+    text-align: center;
+}
+#bigbox_4 #six img {
+    width: 400px;
+    height: 400px;
+}
+#bigbox_4 #seven {
+    background-color: #770001;
+    height: 500px;
+    float: right;
+    clear: right;
+}
+#bigbox_4 #seven p {
+	color: #FFFFFF;
+    font-size: 30px;
+    font-style: normal;
+    font-family: "HG丸ｺﾞｼｯｸM-PRO";
+    font-weight: bold;
+    text-align: center;
+}
+#bigbox_4 #seven img {
+    width: 400px;
+    height: 400px;
+}
+#bigbox_4 {
+	width: 70%;
+    text-align: center;
+}
+#bigbox_3 #three {
+    background-color: #770001;
+    color: #FFFFFF;
+    font-size: 30px;
+    font-style: normal;
+    font-family: "HG丸ｺﾞｼｯｸM-PRO";
+    font-weight: bold;
+    height: 60px;
+    text-align: right;
+}
+
+#bigbox_5 {
+    width: 100%;
+    text-align: right;
+    clear: right;
+}

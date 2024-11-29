@@ -1,0 +1,27 @@
+@charset "utf-8";
+body{
+	background-color: #AE0609;
+}
+
+body p {
+    color: #FFFFFF;
+    font-size: 30px;
+    font-style: normal;
+    font-family: "HG丸ｺﾞｼｯｸM-PRO";
+    font-weight: bold;
+    font-variant: normal;
+}
+
+#bigbox #one {
+	background-color: #770001;
+    color: #FFFFFF;
+    font-size: 30px;
+    font-style: normal;
+    font-family: "HG丸ｺﾞｼｯｸM-PRO";
+    font-weight: bold;
+	height: 60px;
+}
+#bigbox {
+    width: 100%;
+    text-align: center;
+}

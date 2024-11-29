@@ -1,0 +1,68 @@
+@charset "utf-8";
+body{
+	background-color: #AE0609;
+}
+
+body h1 {
+    text-align: center;
+    color: #FFFFFF;
+}
+
+#bigbox #one {
+    background-color: #770001;
+    color: #FFFFFF;
+    font-size: 30px;
+    font-style: normal;
+    font-family: "HG丸ｺﾞｼｯｸM-PRO";
+    font-weight: bold;
+    border-top: 4px dashed #744041;
+    background-size: auto auto;
+}
+#bigbox #one p {
+    text-align: center;
+}
+#bigbox #one img {
+	width: 400px;
+    height: 400px;
+    text-align: center;
+}
+body p {
+    text-align: right;
+    color: #FFFFFF;
+}
+
+#bigbox_1 #two {
+	background-color: #770001;
+	color: #FFFFFF;
+	font-size: 30px;
+    font-style: normal;
+    font-family: "HG丸ｺﾞｼｯｸM-PRO";
+    font-weight: bold;
+	border-top: 4px dashed #744041;
+}
+#bigbox_1 #two p {
+    text-align: center;
+}
+#bigbox_1 #two img {
+	width: 400px;
+    height: 400px;
+    text-align: center;
+}
+#bigbox {
+	width: 100%;
+	text-align: center;
+}
+#bigbox_2 {
+	background-color: #770001;
+    color: #FFFFFF;
+    font-size: 30px;
+    font-style: normal;
+    font-family: "HG丸ｺﾞｼｯｸM-PRO";
+    font-weight: bold;
+	height: 60px;
+}
+#bigbox {
+    width: 100%;
+    text-align: center;
+}
+
